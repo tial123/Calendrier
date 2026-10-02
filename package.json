@@ -1,0 +1,11 @@
+{
+  "name": "calendrier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple calendar web app for iPhone: plans, work shifts, gym and more.",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve -l 8080 .",
+    "test": "node --test"
+  }
+}
