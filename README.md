@@ -23,7 +23,7 @@ It's an installable web app. Add it to your Home Screen and it opens full-screen
    - On GitHub, open the repository and go to **Settings → Pages**.
    - Under **Build and deployment**, pick **Deploy from a branch**.
    - Choose the branch (`main`) and the **/ (root)** folder, then **Save**.
-   - After a minute the site is live at `https://<your-username>.github.io/calendrier/`.
+   - After a minute the site is live at `https://<your-username>.github.io/Calendrier/`.
 2. Open that link in **Safari** on your iPhone.
 3. Tap the **Share** button, then **Add to Home Screen**.
 
