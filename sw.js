@@ -1,10 +1,11 @@
 // Offline support: serve the app from cache, refresh the cache in the background.
 // Bump CACHE when the list of files changes.
-const CACHE = 'calendrier-v1';
+const CACHE = 'calendrier-v2';
 const ASSETS = [
   './',
   'index.html',
   'css/app.css',
+  'fonts/manrope.woff2',
   'js/app.js',
   'js/dates.js',
   'js/events.js',

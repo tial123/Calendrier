@@ -61,6 +61,7 @@ js/store.js           data model, saving to localStorage, backups
 sw.js                 offline cache
 manifest.webmanifest  home-screen app metadata
 icons/                app icons
+fonts/                Manrope (SIL Open Font License), bundled for offline use
 ```
 
 If you add or rename a file, list it in `sw.js` and bump `CACHE` so installed copies pick up the change.
